@@ -1,0 +1,5 @@
+# Node modules (library hasil npm install)
+node_modules/
+
+# dotenv config
+.env
